@@ -37,10 +37,9 @@
     <project path="qttools" name="qt/qttools" />
     <project path="qttranslations" name="qt/qttranslations" />
     <project path="qtwayland" name="qt/qtwayland" />
-    <!--
-        <project path="qtwebkit" name="qt/qtwebkit" />
-        <project path="qtwebkit-examples" name="qt/qtwebkit-examples" />
-    -->
     <project path="qtwinextras" name="qt/qtx11extras" />
     <project path="qtxmlpatterns" name="qt/qtxmlpatterns" />
+
+    <!-- If you're looking for webkit, see webkit.xml - seperated into a
+         different manifest because of the large size of it -->
 </manifest>
