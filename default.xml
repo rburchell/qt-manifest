@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="qt"
+            fetch="ssh://codereview.qt-project.org:29418"
+            review="codereview.qt-project.org" />
+
+    <default revision="stable" remote="qt" />
+
+    <project path="qtchooser" name="qt/qtchooser" revision="master" />
+    <project path="qlalr" name="qt/qlalr" revision="master" />
+    <project path="qt3d" name="qt/qt3d" revision="master" />
+    <project path="qtactiveqt" name="qt/qtactiveqt" />
+    <project path="qtandroidextras" name="qt/qtandroidextras" />
+    <project path="qtbase" name="qt/qtbase" />
+    <project path="qtconnectivity" name="qt/qtconnectivity" />
+    <project path="qtdeclarative" name="qt/qtdeclarative" />
+    <project path="qtdoc" name="qt/qtdoc" />
+    <project path="qtdocgallery" name="qt/qtdocgallery" revision="master" />
+    <project path="qtenginio" name="qt/qtenginio" />
+    <project path="qtfeedback" name="qt/qtfeedback" revision="master" />
+    <project path="qtgraphicaleffects" name="qt/qtgraphicaleffects" />
+    <project path="qtimageformats" name="qt/qtimageformats" />
+    <project path="qtjsondb" name="qt/qtjsondb" revision="master" />
+    <project path="qtlocation" name="qt/qtlocation" />
+    <project path="qtmacextras" name="qt/qtmacextras" />
+    <project path="qtmultimedia" name="qt/qtmultimedia" />
+    <project path="qtpim" name="qt/qtpim" revision="master" />
+    <project path="qtqa" name="qt/qtqa" revision="master" />
+    <project path="qtquick1" name="qt/qtquick1" />
+    <project path="qtquickcontrols" name="qt/qtquickcontrols" />
+    <project path="qtrepotools" name="qt/qtrepotools" revision="master" />
+    <project path="qtscript" name="qt/qtscript" />
+    <project path="qtsensors" name="qt/qtsensors" />
+    <project path="qtserialport" name="qt/qtserialport" />
+    <project path="qtsvg" name="qt/qtsvg" />
+    <project path="qtsystems" name="qt/qtsystems" revision="dev" />
+    <project path="qttools" name="qt/qttools" />
+    <project path="qttranslations" name="qt/qttranslations" />
+    <project path="qtwayland" name="qt/qtwayland" />
+    <!--
+        <project path="qtwebkit" name="qt/qtwebkit" />
+        <project path="qtwebkit-examples" name="qt/qtwebkit-examples" />
+    -->
+    <project path="qtwinextras" name="qt/qtx11extras" />
+    <project path="qtxmlpatterns" name="qt/qtxmlpatterns" />
+</manifest>
