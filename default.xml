@@ -4,7 +4,7 @@
             fetch="ssh://codereview.qt-project.org:29418"
             review="codereview.qt-project.org" />
 
-    <default revision="stable" remote="qt" />
+    <default revision="dev" remote="qt" />
 
     <project path="qtchooser" name="qt/qtchooser" revision="master" />
     <project path="qlalr" name="qt/qlalr" revision="master" />
