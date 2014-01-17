@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="qt"
+            fetch="ssh://codereview.qt-project.org:29418"
+            review="codereview.qt-project.org" />
+
+    <default revision="stable" remote="qt" />
+
+    <project path="messagingframework" name="qt-labs/messagingframework" revision="master" />
+</manifest>
