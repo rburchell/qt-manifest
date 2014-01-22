@@ -39,6 +39,7 @@
     <project path="qtwayland" name="qt/qtwayland" />
     <project path="qtwinextras" name="qt/qtx11extras" />
     <project path="qtxmlpatterns" name="qt/qtxmlpatterns" />
+    <project path="qtwebsockets" name="qt/qtwebsockets" revision="master" />
 
     <!-- If you're looking for webkit, see webkit.xml - seperated into a
          different manifest because of the large size of it -->
