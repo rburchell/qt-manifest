@@ -6,9 +6,7 @@
 
     <default revision="stable" remote="qt" />
 
-    <project path="qtchooser" name="qt/qtchooser" revision="master" />
-    <project path="qlalr" name="qt/qlalr" revision="master" />
-    <project path="qt3d" name="qt/qt3d" revision="master" />
+    <project path="qt3d" name="qt/qt3d" />
     <project path="qtactiveqt" name="qt/qtactiveqt" />
     <project path="qtandroidextras" name="qt/qtandroidextras" />
     <project path="qtbase" name="qt/qtbase" />
@@ -24,7 +22,7 @@
     <project path="qtlocation" name="qt/qtlocation" />
     <project path="qtmacextras" name="qt/qtmacextras" />
     <project path="qtmultimedia" name="qt/qtmultimedia" />
-    <project path="qtpim" name="qt/qtpim" revision="master" />
+    <project path="qtpim" name="qt/qtpim" />
     <project path="qtqa" name="qt/qtqa" revision="master" />
     <project path="qtquick1" name="qt/qtquick1" />
     <project path="qtquickcontrols" name="qt/qtquickcontrols" />
@@ -33,13 +31,15 @@
     <project path="qtsensors" name="qt/qtsensors" />
     <project path="qtserialport" name="qt/qtserialport" />
     <project path="qtsvg" name="qt/qtsvg" />
-    <project path="qtsystems" name="qt/qtsystems" revision="dev" />
+    <project path="qtsystems" name="qt/qtsystems" />
     <project path="qttools" name="qt/qttools" />
     <project path="qttranslations" name="qt/qttranslations" />
     <project path="qtwayland" name="qt/qtwayland" />
+    <project path="qtwebchannel" name="qt/qtwebchannel" />
     <project path="qtwinextras" name="qt/qtx11extras" />
     <project path="qtxmlpatterns" name="qt/qtxmlpatterns" />
-    <project path="qtwebsockets" name="qt/qtwebsockets" revision="master" />
+    <project path="qtwebsockets" name="qt/qtwebsockets" />
+
 
     <!-- If you're looking for webkit, see webkit.xml - seperated into a
          different manifest because of the large size of it -->
