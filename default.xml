@@ -4,7 +4,7 @@
             fetch="ssh://codereview.qt-project.org:29418"
             review="codereview.qt-project.org" />
 
-    <default revision="dev" remote="qt" />
+    <default revision="5.3" remote="qt" />
 
     <project path="qt3d" name="qt/qt3d" />
     <project path="qtactiveqt" name="qt/qtactiveqt" />
