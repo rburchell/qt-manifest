@@ -31,7 +31,7 @@
     <project path="qtsensors" name="qt/qtsensors" />
     <project path="qtserialport" name="qt/qtserialport" />
     <project path="qtsvg" name="qt/qtsvg" />
-    <project path="qtsystems" name="qt/qtsystems" />
+    <project path="qtsystems" name="qt/qtsystems" revision="dev" />
     <project path="qttools" name="qt/qttools" />
     <project path="qttranslations" name="qt/qttranslations" />
     <project path="qtwayland" name="qt/qtwayland" />
