@@ -6,7 +6,7 @@
 
     <default revision="5.4" remote="qt" />
 
-    <project path="qt3d" name="qt/qt3d" revision="master" />
+    <project path="qt3d" name="qt/qt3d" revision="dev" />
     <project path="qtactiveqt" name="qt/qtactiveqt" />
     <project path="qtandroidextras" name="qt/qtandroidextras" />
     <project path="qtbase" name="qt/qtbase" />
@@ -14,7 +14,7 @@
     <project path="qtdeclarative" name="qt/qtdeclarative" />
     <project path="qtdoc" name="qt/qtdoc" />
     <project path="qtdocgallery" name="qt/qtdocgallery" revision="master" />
-    <project path="qtenginio" name="qt/qtenginio" revision="master" />
+    <!--    <project path="qtenginio" name="qt/qtenginio" /> branches are messed -->
     <project path="qtfeedback" name="qt/qtfeedback" revision="master" />
     <project path="qtgraphicaleffects" name="qt/qtgraphicaleffects" />
     <project path="qtimageformats" name="qt/qtimageformats" />
