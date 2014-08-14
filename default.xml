@@ -21,7 +21,7 @@
     <project path="qtlocation" name="qt/qtlocation" />
     <project path="qtmacextras" name="qt/qtmacextras" />
     <project path="qtmultimedia" name="qt/qtmultimedia" />
-    <project path="qtpim" name="qt/qtpim" />
+    <project path="qtpim" name="qt/qtpim" revision="dev" />
     <project path="qtqa" name="qt/qtqa" revision="master" />
     <project path="qtquick1" name="qt/qtquick1" />
     <project path="qtquickcontrols" name="qt/qtquickcontrols" />
