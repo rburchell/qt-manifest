@@ -14,7 +14,7 @@
     <project path="qtdeclarative" name="qt/qtdeclarative" />
     <project path="qtdoc" name="qt/qtdoc" />
     <project path="qtdocgallery" name="qt/qtdocgallery" revision="master" />
-    <project path="qtenginio" name="qt/qtenginio" />
+    <project path="qtenginio" name="qt/qtenginio" revision="master" />
     <project path="qtfeedback" name="qt/qtfeedback" revision="master" />
     <project path="qtgraphicaleffects" name="qt/qtgraphicaleffects" />
     <project path="qtimageformats" name="qt/qtimageformats" />
