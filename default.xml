@@ -6,7 +6,7 @@
 
     <default revision="5.4" remote="qt" />
 
-    <project path="qt3d" name="qt/qt3d" />
+    <project path="qt3d" name="qt/qt3d" revision="master" />
     <project path="qtactiveqt" name="qt/qtactiveqt" />
     <project path="qtandroidextras" name="qt/qtandroidextras" />
     <project path="qtbase" name="qt/qtbase" />
