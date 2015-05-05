@@ -17,7 +17,6 @@
     <project path="qtfeedback" name="qt/qtfeedback" revision="master" />
     <project path="qtgraphicaleffects" name="qt/qtgraphicaleffects" />
     <project path="qtimageformats" name="qt/qtimageformats" />
-    <project path="qtjsondb" name="qt/qtjsondb" revision="master" />
     <project path="qtlocation" name="qt/qtlocation" />
     <project path="qtmacextras" name="qt/qtmacextras" />
     <project path="qtmultimedia" name="qt/qtmultimedia" />
